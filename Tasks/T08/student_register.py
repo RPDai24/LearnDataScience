@@ -12,3 +12,4 @@ for i in range(num_students):
 # write students ID to reg_form.txt
 with open("reg_form.txt", "w") as file:
     file.write(student_id_str)
+
