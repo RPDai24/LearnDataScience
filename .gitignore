@@ -163,3 +163,8 @@ cython_debug/
 **/*.avi
 **/*.pdf
 **/*.mp4
+
+# ignore Lecture directions
+Lecture/
+**/.DS_Store
+Lectures
