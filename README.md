@@ -5,13 +5,13 @@ This repository contains a collection of coding tasks covering various topics in
 
 ## 🗂 Table of Contents
 - [🚀 Coding Tasks 🛠️](#-coding-tasks-)
-  - [📚 Description](#-description)
-  - [🗂 Table of Contents](#-table-of-contents)
-  - [🚦 Getting Started](#-getting-started)
-  - [🚀 Usage](#-usage)
-  - [🖥 Screenshots](#-screenshots)
-  - [🤝 Contributing and Credits](#-contributing-and-credits)
-  - [📄 License](#-license)
+    - [📚 Description](#-description)
+    - [🗂 Table of Contents](#-table-of-contents)
+    - [🚦 Getting Started](#-getting-started)
+    - [🚀 Usage](#-usage)
+    - [🖥 Screenshots](#-screenshots)
+    - [🤝 Contributing and Credits](#-contributing-and-credits)
+    - [📄 License](#-license)
 
 ## 🚦 Getting Started
 To run this project locally, follow these steps:
@@ -22,10 +22,11 @@ To run this project locally, follow these steps:
    
 ## 🚀 Usage
 This repository is structured into four main folders, each targeting a specific learning track:
-- [01 - Python](https://github.com/RPDai24/codingTasks/tree/main/Tasks/01%20-%20Python)
-- [02 - Version Control](https://github.com/RPDai24/codingTasks/tree/main/Tasks/01%20-%20Python)
-- [03 - Data Visualization and Analysis](https://github.com/RPDai24/codingTasks/tree/main/Tasks/01%20-%20Python)
-- [04 - Machine Learning](https://github.com/RPDai24/codingTasks/tree/main/Tasks/04%20-%20Machine%20Learning)
+- [Tasks](https://github.com/RPDai24/codingTasks/tree/main/Tasks)
+    - [01 - Python](https://github.com/RPDai24/codingTasks/tree/main/Tasks/01%20-%20Python)
+    - [02 - Version Control](https://github.com/RPDai24/codingTasks/tree/main/Tasks/02%20-%20Version%20Control)
+    - [03 - Data Visualization and Analysis](https://github.com/RPDai24/codingTasks/tree/main/Tasks/03%20-%20Data%20Visualization%20and%20Analysis)
+    - [04 - Machine Learning](https://github.com/RPDai24/codingTasks/tree/main/Tasks/04%20-%20Machine%20Learning)
 
 1. Navigate to the specific folder corresponding to the topic you want to explore.
 2. Run the Python script or Jupyter notebook.
@@ -34,10 +35,12 @@ This repository is structured into four main folders, each targeting a specific 
 ## 🖥 Screenshots
 Include screenshots to provide a visual understanding of what your program does. Here are some examples:
 
-01 - Python / T09 - OOP - Classes
+- 01 - Python / T09 - OOP - Classes
+
 ![01 - Python / T09 - OOP - Classes](/Images/t09.png)
 
-04 - Machine Learning / T26 - Natural Language Processing with SpaCy
+- 04 - Machine Learning / T26 - Natural Language Processing with SpaCy
+
 ![04 - Machine Learning / T26 - Natural Language Processing with SpaCy](/Images/t26.png)
 
 
